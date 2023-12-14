@@ -1,8 +1,8 @@
 repo_name: lrkwz/authentication-keycloak-apisix
-report_id: 3735e2f1155912ea7a957b362ab40d8c
+report_id: ca6c95227ebbaa8cbf5c26223929fdbf
 repo_type: Public
-timestamp: '2023-11-24T18:28:30+00:00'
-requested_by: nfrankel
+timestamp: '2023-12-14T09:25:39+00:00'
+requested_by: lrkwz
 provider: github
 branch: master
 detected_tools_count: 15
@@ -71,14 +71,16 @@ tools:
 - name: Keycloak
   description: An open source identity and access management solution
   website_url: https://www.keycloak.org/
+  version: 23.0.1
   open_source: false
   hosted_saas: false
   category: Application Utilities
   sub_category: User Management and Authentication
   image_url: https://img.stackshare.io/service/5439/oAC05cEB_400x400.png
+  detection_source_url: https://github.com/lrkwz/authentication-keycloak-apisix/blob/master/docker-compose.yml
   detection_source: docker-compose.yml
-  last_updated_by: Nicolas Fränkel
-  last_updated_on: 2023-07-20 13:50:29.000000000 Z
+  last_updated_by: lrkwz
+  last_updated_on: 2023-11-30 16:19:11.000000000 Z
 - name: com.fasterxml.jackson.module:jackson-module-kotlin
   description: Add-on module for Jackson
   license: Apache-2.0
@@ -156,7 +158,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: myapp/pom.xml
+  detection_source_url: https://github.com/lrkwz/authentication-keycloak-apisix/blob/master/myapp/pom.xml
   detection_source: myapp/pom.xml
   last_updated_by: Nicolas Fränkel
   last_updated_on: 2023-07-20 13:50:29.000000000 Z
@@ -169,7 +171,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: myapp/pom.xml
+  detection_source_url: https://github.com/lrkwz/authentication-keycloak-apisix/blob/master/myapp/pom.xml
   detection_source: myapp/pom.xml
   last_updated_by: Nicolas Fränkel
   last_updated_on: 2023-07-20 13:50:29.000000000 Z
