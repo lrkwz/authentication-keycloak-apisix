@@ -30,7 +30,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [lrkwz/authentication-keycloak-apisix](https://github.com/lrkwz/authentication-keycloak-apisix)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|15<br/>Tools used|11/24/23 <br/>Report generated|
+|15<br/>Tools used|12/14/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -104,7 +104,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="https://www.keycloak.org/">Keycloak</a></sub>
   <br>
-  <sub></sub>
+  <sub>v23.0.1</sub>
 </td>
 
 </tr>
