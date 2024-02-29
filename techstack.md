@@ -3,10 +3,10 @@
 ## Tech Stack
 lrkwz/authentication-keycloak-apisix is built on the following main stack:
 
-- [Apache Camel](https://camel.apache.org/) – Platform as a Service
 - [Kotlin](https://kotlinlang.org/) – Languages
-- [Keycloak](https://www.keycloak.org/) – User Management and Authentication
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Apache Camel](https://camel.apache.org/) – Platform as a Service
+- [Keycloak](https://www.keycloak.org/) – User Management and Authentication
 
 Full tech stack [here](/techstack.md)
 
@@ -16,10 +16,10 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 lrkwz/authentication-keycloak-apisix is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/3750/pCfEzr6L.png' alt='Kotlin'/> [Kotlin](https://kotlinlang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/5439/oAC05cEB_400x400.png' alt='Keycloak'/> [Keycloak](https://www.keycloak.org/) – User Management and Authentication
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/5439/oAC05cEB_400x400.png' alt='Keycloak'/> [Keycloak](https://www.keycloak.org/) – User Management and Authentication
 
 Full tech stack [here](/techstack.md)
 
@@ -30,7 +30,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [lrkwz/authentication-keycloak-apisix](https://github.com/lrkwz/authentication-keycloak-apisix)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|15<br/>Tools used|01/05/24 <br/>Report generated|
+|15<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
